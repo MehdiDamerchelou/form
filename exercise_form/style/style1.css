@@ -1,0 +1,113 @@
+.all{
+    background: rgb(54, 54, 54);
+    direction: rtl;
+    text-align: center;
+}
+/*******first-page********/
+.matlab1 {
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;    
+    background: gray;
+    color: white;
+    width: 400px;
+    height: 80px;
+    border-radius: 25px;
+}
+.matlab2 {
+    margin-left: 48%;
+    margin-right: 45%;
+    text-align: center;
+    background: gray;
+    color: white;
+    width: 80px;
+    height: 35px;
+    border-radius: 25px;    
+}
+/*******second-page********/
+
+.main{
+    display: inline-block;
+}
+.empty{
+    height: 580px;
+    display: inline-block;
+}
+
+.welcome{
+    color: white;
+    background: rgb(0, 162, 255);
+    border-radius: 15px;
+}
+
+.first-floor{
+    background: black;
+    border-radius: 15px;
+    height: 250px;
+    width: 450px;
+}
+.first-floor-1{
+    margin-right: 20px;
+    height: 150px;
+    width: 180px;
+    display: inline-block;
+}
+.first-floor-2{
+    margin-right: 20px;
+    height: 150px;
+    display: inline-block;
+}
+
+.second-floor{
+    background: black;
+    border-radius: 15px;
+    margin-top: 10px;
+    height: 250px;
+    width: 450px;
+}
+.second-floor-1{
+    margin-right: 20px;
+    height: 150px;
+    width: 180px;
+    display: inline-block;
+}
+.second-floor-2{
+    margin-right: 20px;
+    height: 150px;
+    display: inline-block;
+}
+
+.third-floor{
+    margin-top: 10px;
+    background: black;
+    border-radius: 15px;
+    height: 250px;
+    width: 450px;
+}
+.third-floor-1{
+    margin-right: 20px;
+    height: 150px;
+    width: 180px;
+    display: inline-block;
+}
+.third-floor-2{
+    margin-right: 20px;
+    height: 150px;
+    display: inline-block;
+}
+
+a{
+    color: white;
+}
+h3{
+    margin-top: 45px;
+    width: 100px;
+    text-align: center;
+    background: rgb(221, 219, 219);
+    color: black;
+}
+label{
+    color: white;
+
+}
